@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="ModPlus.Revit.API.2019" Version="4.0.0" />
+    <PackageReference Include="xunit" Version="2.8.0" />
   </ItemGroup>
 
   <ItemGroup>
