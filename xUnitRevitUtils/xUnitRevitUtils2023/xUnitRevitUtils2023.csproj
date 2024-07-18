@@ -11,7 +11,8 @@
     <PackageReference Include="Speckle.Revit.API" Version="2023.0.0">
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
-    <PackageReference Include="xunit" Version="2.8.0" />
+    <PackageReference Include="xunit" Version="2.9.0" />
+    <PackageReference Include="xunit.runner.utility" Version="2.9.0" />
   </ItemGroup>
 
 
